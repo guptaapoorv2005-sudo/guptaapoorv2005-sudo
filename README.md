@@ -122,7 +122,7 @@ Full Stack Developer building scalable, production-style applications using MERN
 
 <div align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=guptaapoorv2005-sudo&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img width="30%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=phoenix1803&theme=tokyonight&hide_progress=true" alt="Top Langs" />
+  <img width="30%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guptaapoorv2005-sudo&theme=tokyonight&hide_progress=true" alt="Top Langs" />
 
 </div>
 
